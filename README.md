@@ -23,10 +23,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/FFLLZZ/serv00-play/main/start.
 | 变量名              | 示例   | 备注                                     |
 | ------------------- | ------ | ---------------------------------------- |
 | HOSTS_JSON          | 见示例 | 可存放 n 个服务器信息                    |
-| ~~TELEGRAM_TOKEN~~  | 略     | telegram 机器人的 token ~~               |
-| ~~TELEGRAM_USERID~~ | 略     | 待通知的 teltegram 用户 ID               |
-| ~~WXSENDKEY~~       | 略     | server 酱的 sendkey，用于接收微信消息    |
-| ~~SENDTYPE~~        | 3      | 选择推送方式，1.Telegram, 2.微信, 3.都有 |
+| TELEGRAM_TOKEN      | 略     | telegram 机器人的 token ~~               |
+| TELEGRAM_USERID     | 略     | 待通知的 teltegram 用户 ID               |
+| SENDTYPE            | 3      | 选择推送方式，1.Telegram, 2.微信, 3.都有 |
 
 PS. 保进程逻辑已挪到 serv00 上做，actions 只做保号，降低访问频率. github 上只需配置 HOSTS_JSON
 
