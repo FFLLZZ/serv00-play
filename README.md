@@ -1,5 +1,5 @@
 # serv00 上的一些应用，包括 argo+vmess/vmess+ws/hy2/socks5/mtproto/alist等部署、保号、进程防杀、消息推送
-💖（不要更新）
+💖（不要同步复刻）
 
 💖
 
