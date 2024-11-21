@@ -1,7 +1,7 @@
 # serv00 上的一些应用，包括 argo+vmess/vmess+ws/hy2/socks5/mtproto/alist等部署、保号、进程防杀、消息推送
-（不要更新）
+💖（不要更新）
 
-💖 如果你在用这个项目，请给我打个 star，好让我知道有多少人从这个项目中受益。
+💖
 
 ## 前置工作
 
@@ -65,16 +65,7 @@ PS. 保进程逻辑已挪到 serv00 上做，actions 只做保号，降低访问
 
 临时隧道已失效，请使用固定隧道名，[如何申请固定隧道名](https://youtu.be/KyMvtWknu-k)
 
-## 赞助
 
-<left><details><summary><strong> [点击展开] 请作者喝杯咖啡 ~🧧</strong></summary>
-_捐赠将是对我最大的支持，它将激励我持续的创新和创作。_
-
-![](https://look.pics.cloudns.ch/img/%E6%AC%A7%E6%98%93%E8%B5%9E%E5%8A%A9%E7%A0%81.png)
-
-- **USDT-TRC20:** `TUa2hLirmyq6tUPpfxHuMmWJExR91vHo5t`
-
-</details></left>
 
 ## 项目鸣谢
 
