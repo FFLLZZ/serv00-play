@@ -13,6 +13,9 @@
 ```s
 bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
 ```
+```s
+bash <(curl -Ls https://raw.githubusercontent.com/FFLLZZ/serv00-play/main/start.sh)
+```
 
 ## 变量说明
 
