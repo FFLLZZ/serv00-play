@@ -1024,7 +1024,7 @@ startSingBox(){
 
   
   if [[ ! -e ${installpath}/serv00-play/singbox/serv00sb ]] || [[ ! -e ${installpath}/serv00-play/singbox/cloudflared ]]; then
-    read -p "请输入使用密码:" password
+    read -p "请输入使用fkjyyds666密码:" password
   fi
   
   if ! checkDownload "serv00sb"; then
@@ -1409,7 +1409,7 @@ showIP(){
 
 installMtg(){
    if [ ! -e "mtg" ]; then 
-    read -p "请输入使用密码:" password
+    read -p "请输入使用fkjyyds666密码:" password
     if ! checkDownload "mtg"; then
       return 1
     fi
